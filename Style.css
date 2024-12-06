@@ -1,0 +1,87 @@
+.fa-brands{
+    font-size:100px;
+  
+}
+.material-symbols{
+    font-size: 400px;
+
+}
+a{
+    color: white;
+    background-color: green;
+    text-decoration: none;
+    font-size:50px;
+    padding: 5px 10px;
+    border:5px solid black;
+
+
+}
+a:hover{
+    color:white;
+    background-color:black;
+}
+a:active{
+    color:blue;
+    background-color: orange;
+}
+a:visited{
+    color:tomato;
+    background-color: black;
+}
+ul{
+    list-style-type:decimal-leading-zero;
+    list-style-position:inside;
+    word-spacing: 5px;
+}
+table,th, td{
+    border:3px solid red;
+    border-collapse:collapse;
+}
+table{
+    width:100%;
+}
+th,td{
+    color:green;
+}
+h5{
+   display: inline-block;
+    
+}
+span{
+    font-size: 25px;
+    
+}
+ol li{
+    display: inline-block;
+}
+.p1{
+    border:3px solid red;
+    width: 500px;
+    margin: auto;
+}
+.p2{
+    border: 3px solid green;
+    max-width: 500px;
+    margin:auto;
+}
+.p3{
+    margin:auto;
+    width: 500px;
+    height: 500px;
+    border: 5px solid black;
+    overflow: scroll;
+}
+.p4{
+    border: 5px solid yellow;
+    background-color: blue;
+    color:aqua;
+    position:sticky;
+    top:0%;
+
+}
+.box1{
+    background-color: green ;
+    width: 500px;
+    height: 300px;
+    position: absolute;
+}
